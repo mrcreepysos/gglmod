@@ -1,0 +1,8 @@
+{
+  	"name" : "GGLMod",
+	"description" : "A mod that aims to tune the game to be more competitively viable while keeping it close to vanilla.",
+	"author" : "mrcreepy, Hoppip",
+	"contact" : "creepysos#4414",
+	"blt_version" : 2,
+	"version" : "1.0"
+}

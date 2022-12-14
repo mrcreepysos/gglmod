@@ -1,0 +1,11 @@
+{
+	"menu_cable_guy_beta_desc": "BASIC: ##$basic##\nThe power and range of your intimidation is increased by ##50%##.\n\nACE: ##$pro##\nRemoved effect.",
+	"menu_ammo_reservoir_beta_desc": "BASIC: ##$basic##\nRemoved effect.\n\nACE: ##$pro##\nRemoved effect.",
+	"menu_unseen_strike_beta_desc": "BASIC: ##$basic##\nIf you do not lose any armor or health for ##4## seconds, you gain ##35%## critical hit chance for ##6## seconds\n\nACE: ##$pro##\nRemoved effect.",
+	"menu_wolverine_beta_desc": "BASIC: ##$basic##\nThe lower your health, the more damage you do. When your health is below ##50%##, you will do up to ##250%## more melee and saw damage.\n\nACE: ##$pro##\nRemoved effect.",
+	"menu_tea_cookies_beta_desc": "BASIC:##$basic##\nAdds ##7## more First Aid Kits to your inventory.\n\nACE: ##$pro##\nAdds ##3## more First Aid Kits to your inventory.",
+	"menu_deck21_9_desc": "Crew members killing enemies while the feedback effect is active will regenerate ##$10## health.",
+	"menu_max_progress": "Max account progression",
+	"menu_max_progress_help": "Max out your account progression and skip grind.",
+	"menu_progress_msg": "Are you sure you want to max out your progress? This will max out your level, infamy, cash, and unlock all available items."
+}
